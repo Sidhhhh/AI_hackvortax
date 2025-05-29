@@ -12,7 +12,7 @@
 - ⏳ Manual code reviews slowing learning progress
 - 🌍 Geographic barriers to quality education
 
-**Our open innovation solution** integrates cutting-edge technologies into a unified platform, breaking traditional education silos.
+**Our open innovation solution** integrates cutting-edge technologies into a unified platform.
 
 ---
 
