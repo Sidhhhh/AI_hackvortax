@@ -57,8 +57,8 @@ Code Review Engine: AI-based real-time code analysis using OpenRouter or similar
 ---
 
 📸 Screenshots
-Feature	Preview  img
-Virtual Classroom	img
+Feature	Preview  ![image alt](https://github.com/Sidhhhh/AI_hackvortax/blob/main/Screenshot%202025-05-29%20114649.png?raw=true)
+Virtual Classroom	
 Code Review	img
 AI Chatbot	img
 Quiz Generator	img
