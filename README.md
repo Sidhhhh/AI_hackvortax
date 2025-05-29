@@ -24,7 +24,7 @@
 | 🤖 AI Tutor | Google Gemini API | 24/7 coding assistance |
 | ⌨️ Code Runner | Safe in-browser execution |
 | 🔍 Code Review | Instant performance feedback |
-| ✏️ Quiz Generator | NLP Question Synthesis | Adaptive learning paths |
+| ✏️ Quiz Generator | GEMINI| Adaptive learning paths |
 
 ---
 
