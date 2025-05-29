@@ -76,7 +76,8 @@ project structure s
 └── README.md
 
 run instruction
- npm install
+
+npm install
 
 pip install -r requirements.txt
 
