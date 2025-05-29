@@ -1,0 +1,5 @@
+flask
+react+vite
+google gemini api
+re
+json
