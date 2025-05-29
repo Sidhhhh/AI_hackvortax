@@ -61,7 +61,7 @@ Feature	Preview  ![image alt](https://github.com/Sidhhhh/AI_hackvortax/blob/main
 Virtual Classroom	
 Code Review	img
 AI Chatbot	img
-Quiz Generator	img
+Quiz Generator	img ![img alt](https://github.com/Sidhhhh/AI_hackvortax/blob/main/Screenshot%202025-05-29%20114903.png?raw=true)
 
 project structure s
 ├── client/ # React frontend
