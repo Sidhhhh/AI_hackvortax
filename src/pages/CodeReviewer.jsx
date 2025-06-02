@@ -31,7 +31,7 @@ const CodeReviewer = () => {
 
   const [selectedOption, setSelectedOption] = useState(options[0]);
   const [code, setCode] = useState("");
-  const ai = new GoogleGenAI({ apiKey: "AIzaSyCvCL_ZMrDEJ7Us5nHfx_E45FQ7GRvobz0" }); // Replace this with your actual key
+  const ai = new GoogleGenAI({ apiKey: "apikey" }); // Replace this with your actual key
   const [loading, setLoading] = useState(false);
   const [response, setResponse] = useState("");
 
