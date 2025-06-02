@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import "../style.css";
 
-const API_KEY = "AIzaSyCvCL_ZMrDEJ7Us5nHfx_E45FQ7GRvobz0"; // Replace with your real key
+const API_KEY = "apikey"; // Replace with your real key
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 const getMimeType = (filename) => {
